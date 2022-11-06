@@ -1,4 +1,5 @@
-# Jura AI
+# Jura.AI
+## Kunstig intelligens for jurister
 
 > Sidst opdateret 2022-11-06
 
